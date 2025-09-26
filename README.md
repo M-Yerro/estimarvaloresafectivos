@@ -1,2 +1,6 @@
 # estimarvaloresafectivos
 Predicción de valores léxico-afectivos mediante la semántica distribucional y redes neuronales para palabras en español
+
+# Cómo citar:
+
+Yerro Avincetto, M. M., Vivas, J. R., González, M. A., & Passoni, L. I. (2023). Predicción de valores léxico-afectivos para un conjunto de emociones complejas mediante análisis de semántica distribucional.
